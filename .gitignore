@@ -2,3 +2,10 @@
 /Lib
 /Scripts
 pyvenv.cfg
+/Library
+/share
+.env
+/models
+/training
+yolov8x.pt
+/runs
